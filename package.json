@@ -1,0 +1,33 @@
+{
+  "name": "namaste-react-final-app-practise",
+  "version": "1.0.0",
+  "description": "namaste react practise",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejaswip4/namaste-react-app-practise.git"
+  },
+  "keywords": [
+    "tejasswi",
+    "github",
+    "react",
+    "app",
+    "app"
+  ],
+  "author": "tejaswi peddina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tejaswip4/namaste-react-app-practise/issues"
+  },
+  "homepage": "https://github.com/Tejaswip4/namaste-react-app-practise#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
